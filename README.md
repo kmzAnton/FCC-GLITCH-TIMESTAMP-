@@ -1,1 +1,1 @@
-# FCC-GLITCH-TIMESTAMP-
+# Backend Challenges boilerplate - package.json
